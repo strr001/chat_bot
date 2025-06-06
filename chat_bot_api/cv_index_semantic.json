@@ -1,0 +1,179 @@
+[
+  {
+    "filename": "resume_analyst_sql_health.pdf",
+    "title": "Healthcare Data Analyst Programmer",
+    "role": "analyst",
+    "tech": [
+      "sql",
+      "java",
+      "python"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "level": null
+  },
+  {
+    "filename": "resume_cnc_programist.pdf",
+    "title": "CNC Programmer for Aerospace Manufacturing",
+    "role": null,
+    "tech": [
+      "vericut"
+    ],
+    "domain": [
+      "manufacturing",
+      "aerospace"
+    ],
+    "level": null
+  },
+  {
+    "filename": "resume_fintech_senior_fullstack.pdf",
+    "title": "Senior Fullstack Engineer in FinTech",
+    "role": "fullstack",
+    "tech": [
+      "java",
+      "react",
+      "angular"
+    ],
+    "domain": [],
+    "level": "senior"
+  },
+  {
+    "filename": "resume_frontend_middle_vue.pdf",
+    "title": "Middle Frontend Developer (Vue.js)",
+    "role": "frontend",
+    "tech": [
+      "vue"
+    ],
+    "domain": [],
+    "level": "middle"
+  },
+  {
+    "filename": "resume_game_programmer_unreal_engine_vr_fps.pdf",
+    "title": "Game Developer (Unreal Engine + VR)",
+    "role": "game",
+    "tech": [
+      "c++",
+      "c#"
+    ],
+    "domain": [
+      "game"
+    ],
+    "level": null
+  },
+  {
+    "filename": "resume_java_spring_docker.pdf",
+    "title": "Java Developer with Spring & Docker",
+    "role": "Java",
+    "tech": [
+      "java",
+      "spring",
+      "docker",
+      "oracle",
+      "sql",
+      "angular",
+      "openshift"
+    ],
+    "domain": [],
+    "level": null
+  },
+  {
+    "filename": "resume_javascript_angular_react_django.pdf",
+    "title": "Fullstack JavaScript Developer with Django",
+    "role": "frontend",
+    "tech": [
+      "angular",
+      "react",
+      "django",
+      "sql",
+      "jest"
+    ],
+    "domain": [],
+    "level": null
+  },
+  {
+    "filename": "resume_junior_frontend_javascript.pdf",
+    "title": "Junior Frontend Developer (JavaScript)",
+    "role": "frontend",
+    "tech": [
+      "react",
+      "angular"
+    ],
+    "domain": [],
+    "level": "junior"
+  },
+  {
+    "filename": "resume_junior_sql_devops.pdf",
+    "title": "Junior Developer with SQL & DevOps",
+    "role": null,
+    "tech": [
+      "sql",
+      "docker"
+    ],
+    "domain": [],
+    "level": "junior"
+  },
+  {
+    "filename": "resume_python_data_engineer.pdf",
+    "title": "Python Data Engineer (Big Data / Kafka)",
+    "role": "engineer",
+    "tech": [
+      "python",
+      "kafka",
+      "hadoop",
+      "sql",
+      "linux",
+      "c++"
+    ],
+    "domain": [
+      "data"
+    ],
+    "level": null
+  },
+  {
+    "filename": "resume_python_sas_data_analytics.pdf",
+    "title": "Python + SAS Developer for Data Analytics",
+    "role": null,
+    "tech": [
+      "python",
+      "sas",
+      "django",
+      "react",
+      "aws",
+      "mysql"
+    ],
+    "domain": [
+      "data"
+    ],
+    "level": null
+  },
+  {
+    "filename": "resume_remote_fullstack_python_node.pdf",
+    "title": "Remote Fullstack Developer (Python + Node.js)",
+    "role": "fullstack",
+    "tech": [
+      "python",
+      "node.js",
+      "react",
+      "sql"
+    ],
+    "domain": [
+      "remote"
+    ],
+    "level": null
+  },
+  {
+    "filename": "resume_statistical_programmer_clinical_sas.pdf",
+    "title": "Statistical Programmer in Clinical Trials (SAS + R)",
+    "role": null,
+    "tech": [
+      "sas",
+      "r"
+    ],
+    "domain": [
+      "clinical",
+      "biostatistics"
+    ],
+    "level": null
+  }
+]
