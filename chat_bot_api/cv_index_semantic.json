@@ -11,8 +11,7 @@
     "domain": [
       "healthcare"
     ],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_analyst_sql_health.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCLYXI34IAE%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213146Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIQCBhBzzhV1OJwCnGCTPUjbNgLPH71xS2OAsR%2FrdFqLz%2FwIgMIp4I3COFLaihXGPDbIlyR23YVXuULuJ%2B5RGOGCrjCgq1gIIfxAAGgwyNDE5OTE2MjA3NTkiDBtprF8Ob4NxayNwhiqzAjKrDAb1cttshH0MGWXUBgEsm0qs1fNCzo1ktGh48CIezVwCMUd0qURG4PUnfTS7it8i3YWFk7bEMH2Ta08T0bdYylMp0Afsrg%2B2sfECgbyUe%2B%2FrodYfdH69VcsMf8orYo6alSZhZLUvFmHGmYAq5l9ZdF7iVh9%2F9D1D25ptA6iWPmt3p98HsFfkGuCbqzHigM9MtM1oySj9ndXcU32Wh6jZrm3gv218HweEVqKD0mUuh5ouMtycHnDN%2FU6bqVba1oNDhuEOARQyvLk%2FnlwkfzRdTTPt8ghaGQidjLIegjq9pfkOjg6iUXa0QdhjzT1p72yiNgUdPsKNyFQZpCGZBQTxr9HxZ2bTHb4sx0tBypqrguBo%2B09XganOMtNAnYhUC73so7Tu%2FRMsb57A9BQTS0fDUoQwld2SwgY6rQLTurd2tGaci24RQjJjf2sYr9%2BHei6thjCOlQy9HXc2TQTLXBQ%2Fw428sVxnOp2eFjD8C77JTNcsTljepEEORrwMKjQr1h2Enm%2FFUDGFuG37UkeuWfZYTIuP3DFcFOCFF4Bw%2F6vU6WlwvwruCcha%2BIO11Mb%2Bvcce5aBkcveC%2Fj53Px9hqzhuO%2FTGH721EqUaod0P58rd6%2BZbCvOwl0md1t5cH1NbgdYNKZOvYq2oO8qVBUAjIGyv5Y17y2ac3XXjNavA9qDZOSMBZeooI2GZeSA86rttOrbP%2FRMNXLjltneVvoMLxaBE72Em2jIKQ%2BKkLOV289o37jKyx8RQlZ96leROvQ1LV38zO1dUd67H1JvZX%2B%2Fppc6dJM0M%2BP0p%2B%2FYD2NN5293bgW92yJhSF6%2Fb&X-Amz-Signature=8435f4cec0d5b92239beb4e14fcb95a8b2cde65dd53e505ebcfe5ef3c5377e04&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": null
   },
   {
     "filename": "resume_cnc_programist.pdf",
@@ -25,8 +24,7 @@
       "manufacturing",
       "aerospace"
     ],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_cnc_programist.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL5NYIE3RV%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213218Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJGMEQCIBQ60C%2FTqp1NApIA2jEpz97nyVsr%2BKwUGvr4dkyBLaC7AiA0qDzoey4QTuQ2dzsgjaBXkyCoYRtah7J0Y9G7FwBZqirWAgh%2FEAAaDDI0MTk5MTYyMDc1OSIMUn44XjQsvGXE2%2FQ%2BKrMCvHqDDLD%2FxlmEKa%2BU0l0cOCknHlw%2FXuH6O8neBn4ApE51rVOThlnxpf3n0Sf1vy5H79nDkFaCpTgFk2aNRLImIK1dFjj9IlJVvkElmde3d0OMcPsqRSPNxj5OrPi2Lks3mh5nrbYF%2F57vbCne%2F3oapJbwr7Y1QykhlzQPjoqhBwWcuJwBdBqXzaHcGGZhdHPdi5zeshyWOXckDW8XRSIj1GoOq0K%2BcASHPKvmsXyeZSSCDI87OqpfcgWlKAxKIrQPdjCZAjczbIZbewvfTLGxZuVFzImslVzpKgyhVY8WX7yY9s7z%2F4lxCh%2FabfzrQtPDRZDFUmFkTRKxKwKtGCgmP%2FLM4JJQ1BrasbIDdz5rYu9Pnbz96HYJcSYCLy4ROjflpMWFqjG9lGe8hoZ8%2B0FElUAw0jCV3ZLCBjquAvXpNiuS8Ukj3qFzdiaibU8DiNXns%2B4HiihhWXAy0RE0iKBI9EZHIhve6WAHlpWkaRhjlvilZH0T0H19ezkyJ8s0dAz31oSNofhtO8nRNYz4Kil5454FhizHXjESvMcNEIhCpr%2Fk%2FVJTTvvJIgFWij0WPJeFp%2BAry8aFvQeWPrhHKgwGzpSMzTiI%2BgVPHWQO0%2Bu1rn3RUh3hv6yE2RlYk9vtd8wjumoK3jd4rmIj%2Fe99HnwuRwox4UeuaOTu3v0%2B%2BMXXu8KM8etKJlGsJCQvLiF6o7TsbvhwC4ii3lw7ze4obgdNj7NeB7VUHg2ws3OaiyfDJnO8N11cMcKufUxLMC1ouQ7B%2FRK1%2F92a4UjqqUXZF7kl9ALWZSh%2BmqVbV%2FzFg8o%2BjS7%2BthdgxzSx4Tob&X-Amz-Signature=9d913665b542f133388b74614e5acbc7531e036240db5d87990759ab2080a527&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": null
   },
   {
     "filename": "resume_fintech_senior_fullstack.pdf",
@@ -38,8 +36,7 @@
       "angular"
     ],
     "domain": [],
-    "level": "senior",
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_fintech_senior_fullstack.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCLXKAKVAFY%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213242Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJGMEQCIBvzchdIlymC9a1y35WeU%2Ftq1%2FBQ5f9M%2BwGzLRKMFH8vAiBOUSpf8t0L5c7%2BPt4bpIDaqjkD9YhOsofkDO%2B1k8Lg1irWAgh%2FEAAaDDI0MTk5MTYyMDc1OSIModnhKPD5C8k1pDo%2FKrMCzweF75FA0LVhYha1rpzk2LT0Tbv9BKLdJSPTczGl472yfN22%2BXacp2oBWKRF%2BgtQi062JqxB3Y91cjJQhCwgaBz4SQTJ0yj6KL0oFfY6foD%2BLE1IIAhKQeAES6MzGlwz6erB8ExCNx3OGz96bjowCDzbtDpdYOrbo4FZwgyM60gIoqHJ3WHwbLszLRkYQNJhL4nEMa5Zj5NcgmcmimvVOCkHX1HbDQUENEk8q%2BCyUnNFAtnSwuBTijFHzkQSdouUJMGzu8C6soQiIT6M%2Fqr8Sq2VkjBpgDXsldAwDp4psoapbszFEjV8l%2FV3KlrJrDZjRCN690Zb7wFzqmcPF9RJK9ch3PSbjeE6yX4PTel23UnzFfQIKFuqzzopDfhnmHBJW9yCAWw9CVxebc%2BAangWz24d7TCV3ZLCBjquAt15GMnlPOG9%2BEthVlp%2Bscn83nkOPyPbCg%2FQzanrjzzgQBeysQwGOWU5mORnUsIToDmJ0kntcnC6ojIe5u%2BfYZQuJXhmdHpLFFpFXjECJ%2FZmMfDQYb%2FP3ML3L%2BouVQZ0y16gx%2FGVcEJiHk8E7%2BYMkEqI8mWHJQc17YbtLOccrsdgxCn4b3USiEiLJ3myMe%2FPbd6Mvn8P4VyrPeYtgCUg1bUJWStqKWRqEHLakiemM%2FZ732fMAeEuDViLZwWFiQi3XpBElsFRULDI7l3Qj%2Bqv7zX3iL7WLZ0cgvOFL1031T1%2BxYq%2FfQSKNLJEdt2elPPwYpWfOyeLOrqQhN3xCy6xIGH77v%2BvnFieu3GaW%2FbpXjeMgvo9RmkTfG1wLJuPd2FGuuO1eU3LEis2Q%2FQlfPb9&X-Amz-Signature=2b1beb30cc2e6b34b331237b9e07e183f4ac4894b41bc0de48008d915c1ce1b6&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": "senior"
   },
   {
     "filename": "resume_frontend_middle_vue.pdf",
@@ -49,9 +46,8 @@
       "vue"
     ],
     "domain": [],
-    "level": "middle",
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_frontend_middle_vue.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL7XSNI6UM%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213331Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIEgjvFQ5Wr%2FWvnmnwXxtfqBOJb6nxOgplCUpXE%2FYBfndAiEAtpdpVmcGpC6P%2F9LSFI454RSLcCqJbdhrl5US4mIBQnkq1gIIfxAAGgwyNDE5OTE2MjA3NTkiDCg7EpKGuFi6I8W89CqzAlihai47B9pojtvpBg41gbuiYI%2BqUdRJpiDUMwgtcGu17AwB0diLsCLp%2FmYKTYVF4Jj8nqrblVfvui5s3irM4vfoOjoPel9Hpdd%2BSGZX6HzqpnCPdXVVluCPL5q8dUabFTcVZSvLFHAIIkGYKWy98vJo%2BjFtnRMxZEL4%2BbA3Cvn7Li%2BS5Im7N9iv1hmn%2BhVpxcaVXuP%2BcAFnxBieEsj1NOjKmRHI9yd56jwnr5G9rOQnlZQayiBzH2QFzKutJYxEDbWkmGmrOM4ENWNgV7F1AIkpa6I3gVvdXPyKG0U6bwIlPfRGk1b6IOlzh6R%2F6BQ5V%2BET8qWXR7RSRa%2B79ZW9cxxk0VQm6r3A3yEkNKLFVRUzmeIqT5%2FyY1tEmzuI4EsJb9ZxbxxKyjkmKbKK%2FMFtPzaalqYwld2SwgY6rQItnhuUPjyCH536baADXBF76Hp%2BkFJAtqmN42%2BhTWRlz2BHNR%2FQHRlqPAhnK%2FhcMVklNJhXL4XM9KY6HdY5WAkCUO9MxgMQYPfYtQQ1v1PzfciC0VfdHvGBQa2yoWuYYq2mDBaI%2FNYh1frqeZSfgTuZuBRghJwIcn8046hT7phQ22vC99%2FIqgQ9dWIgnEIAvHgi9bIzsLUikfMm%2FWq%2F%2B%2FzoWpzsHJ%2BaUC65JSijHxocorWre%2F%2B74cEKgzeEk2%2Bd8yiqA4l23Jda5L%2BiaWTjS5u6Xm37tUTpGYLPwNs%2Btwsrcs9L3Y5bch08bnnIjM30qsRo07LYPNLZ5Hm71xLOCxRwC2KuQDUxYNLlDo%2BxpMWDvxQktNIdHh2GwUr5a5EO94DAaP6nn5gvms%2B5Aqt0&X-Amz-Signature=7648f9a2db7eff2aed908bfffe12d479c08b9c48c221bd29f3a06449c84d6a0e&X-Amz-SignedHeaders=host&response-content-disposition=inline"
-  },
+    "level": "middle"
+    },
   {
     "filename": "resume_game_programmer_unreal_engine_vr_fps.pdf",
     "title": "Game Developer (Unreal Engine + VR)",
@@ -63,8 +59,7 @@
     "domain": [
       "game"
     ],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_game_programmer_unreal_engine_vr_fps.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCLROKIFSWJ%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213400Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIQDjeooVrnEBLA9kPLuRHb3fH8r7%2F0P7s5EjEfrQgrVU7gIgHZl3Nd9qocHdsEzzvSWbylGGicow54E07nDF6phXG50q1gIIfxAAGgwyNDE5OTE2MjA3NTkiDG2udTru2C%2FxEdppRSqzAqXTY9G0isrG4U1HCRPMwpw14Z1eASNv%2F3NY%2F7SKnakY1FdxaXW78%2F%2Fd8C4nkPjf%2FU8yWDlBP4xawnV%2FXA2WTr%2FPjyL65inXLuwfpgtkD59WBEbsMOUBCUkttyE0dJLa%2BLSz%2B7z5rIJawzI%2B3NnIkziuCtH35c81m86izj7dSBHxLVtUuaErU1oNs82wOYXi%2B34K8eUEWQOeUzWieSSbK1Z49CkOZJjBOT8Im4MhGXIXJp1SpjsMwlf1NcQ1KhfDNqbaHtBzpIYuSo%2BZPjp%2FwR81G9JiYNVl1roRdBx1zJtarCjUOJcJcIbHCQf%2BBd29XE5b8l2NrrpU5UrnyuXAuOvFhroknv8yUdgx0VlHbz1hC5UZcfORDYtBxkE4N7cz3iZvlEr8PXIh%2FpjtXzFc3fHUMeUwld2SwgY6rQJQWoomXUKB5LXwy7cj%2BKEGbsBlbIDkr34g1wSIEnqln8m%2F0kh0eiedc1oO3eqMicM6%2BPU%2FOVa8zqzeAb2%2Bz27oOnZ65spf1dOytNuTs8230ZnGu%2Fl2LmJD31dOoZG5F25MOxBgZByTZHy4w%2FrRMM5KR8XzeBLlKroZn5QBGLJqfM7QA4DaYSwBQ1gldZKm52jzZwt1Ildv9fRecDG2f6NxjIG1EVCvnTn4fyMgdXe7BlUgzuSB2e5fmRpNjHrWsJLt5wLAZfO9WtZxkg3UXq%2BLRmSmkbEiH82zep%2BarUQHVuMzmwIigisM%2F%2FyBjugUnW%2FvMRIougNdGbLRUKrg5CgnyRvpHNt2qcQgEArsPAl7de5T34t2UO5U6AHJxD%2BoBjOgFVZNq7p%2FG61mbQFv&X-Amz-Signature=308c1023606a1cf1abc96ccba3aabcad6a38d5f8f7479adfa69090e961bde1f2&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": null
   },
   {
     "filename": "resume_java_spring_docker.pdf",
@@ -80,8 +75,7 @@
       "openshift"
     ],
     "domain": [],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_java_spring_docker.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL7C3WFRG4%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213430Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJIMEYCIQDX5v%2F9kZyJrugTygCNLmT3G8nltDD2Glqp5VqKCfo6WgIhAL0W4%2BtxT0EzabYpA%2Fj9sQkifMipW7MWA2bDDoSeJrZYKtYCCH8QABoMMjQxOTkxNjIwNzU5Igwd175hlDsWYUMAP14qswLmaJ0lVBojyq6s%2FGpI0SnYYFB1yOQMR5cspSEV9fZeu0rSi4avydDF6ollKzZspNbXs5s1%2FzOXZ1HQ9jNvvY9%2BdKG0WRqE6Hc8Sl2CLxOZx1EB6m%2Bs51zczWmzDyz5odQQg5fEDg9c%2FRSlvD7Vb0IC3tHtD7BwmTANOmOWaw5kjvlpUBi1nMoXThIpBmqSHFtC88WEILDzRyhi6GLpXIstkPvA7iqiqorHaiN68adA2Bk%2BYG9Hl9POFkVQOGH0ai7DNMbzGgh%2F0UtBsTO4NJ%2FIqcXgQZDNQaStrCieRqElF4SKXI3idfjxMULiI8tSiVzVpHrsOknfGxjUC5FjqtydRN2Uoinx%2F19ueHRgRq2m1%2B2n5YoDHIdXdLBW3tl5mKgmHhR1QiftRVYz6E11vig5HN%2BdMJXdksIGOqwCKF4m70HpDKBP5nQSQyXXckwpp6vn4y%2BCtoyn%2Fnbb25OhVUi5OYpTp4lf8Vutts%2BTI2fbKYPPJ3gi9DUCL9PPCESsrzeM9P5bvsPeKXYIGsQ0brFzskO6tVr%2F1unMQfrgFDC40gPh%2B1jFKX2hO8fPbRHakrtTdmE7KQARFKSYvlCpewxv47sk9D0mKK6jAVe9wPjlKrhToARD9mNI5ubmi%2FCOCBKYrAggpfddKQXt799X5BSZ7j2R35XGXnnWEH1Nb%2F%2BUxb%2Bp3l%2BlGGHjh2jnoOsiZVsOkXJf%2BoY1Nwd1Tofrf9fiHK3iCwtprtk4aiOFuZ%2FACEtFgiAF2ZhjICoOW41xI6ba6TglzMclRRRYJO2UKZorgy727mfq4zwY%2BuI5fRVLeWHjbVv4IWOJ&X-Amz-Signature=a4ebb1ec1bc1efbcc8b096d9cf9cb53ab47b0a754b4ec6f052bf27bd61cbae72&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": null
   },
   {
     "filename": "resume_javascript_angular_react_django.pdf",
@@ -95,9 +89,8 @@
       "jest"
     ],
     "domain": [],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_javascript_angular_react_django.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL7XSNI6UM%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213500Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIEgjvFQ5Wr%2FWvnmnwXxtfqBOJb6nxOgplCUpXE%2FYBfndAiEAtpdpVmcGpC6P%2F9LSFI454RSLcCqJbdhrl5US4mIBQnkq1gIIfxAAGgwyNDE5OTE2MjA3NTkiDCg7EpKGuFi6I8W89CqzAlihai47B9pojtvpBg41gbuiYI%2BqUdRJpiDUMwgtcGu17AwB0diLsCLp%2FmYKTYVF4Jj8nqrblVfvui5s3irM4vfoOjoPel9Hpdd%2BSGZX6HzqpnCPdXVVluCPL5q8dUabFTcVZSvLFHAIIkGYKWy98vJo%2BjFtnRMxZEL4%2BbA3Cvn7Li%2BS5Im7N9iv1hmn%2BhVpxcaVXuP%2BcAFnxBieEsj1NOjKmRHI9yd56jwnr5G9rOQnlZQayiBzH2QFzKutJYxEDbWkmGmrOM4ENWNgV7F1AIkpa6I3gVvdXPyKG0U6bwIlPfRGk1b6IOlzh6R%2F6BQ5V%2BET8qWXR7RSRa%2B79ZW9cxxk0VQm6r3A3yEkNKLFVRUzmeIqT5%2FyY1tEmzuI4EsJb9ZxbxxKyjkmKbKK%2FMFtPzaalqYwld2SwgY6rQItnhuUPjyCH536baADXBF76Hp%2BkFJAtqmN42%2BhTWRlz2BHNR%2FQHRlqPAhnK%2FhcMVklNJhXL4XM9KY6HdY5WAkCUO9MxgMQYPfYtQQ1v1PzfciC0VfdHvGBQa2yoWuYYq2mDBaI%2FNYh1frqeZSfgTuZuBRghJwIcn8046hT7phQ22vC99%2FIqgQ9dWIgnEIAvHgi9bIzsLUikfMm%2FWq%2F%2B%2FzoWpzsHJ%2BaUC65JSijHxocorWre%2F%2B74cEKgzeEk2%2Bd8yiqA4l23Jda5L%2BiaWTjS5u6Xm37tUTpGYLPwNs%2Btwsrcs9L3Y5bch08bnnIjM30qsRo07LYPNLZ5Hm71xLOCxRwC2KuQDUxYNLlDo%2BxpMWDvxQktNIdHh2GwUr5a5EO94DAaP6nn5gvms%2B5Aqt0&X-Amz-Signature=8ad1be3ef7a00278d40854250aba0045ea3cca4fc7190f2b677abe215e46d7e3&X-Amz-SignedHeaders=host&response-content-disposition=inline"
-  },
+    "level": null
+    },
   {
     "filename": "resume_junior_frontend_javascript.pdf",
     "title": "Junior Frontend Developer (JavaScript)",
@@ -107,8 +100,7 @@
       "angular"
     ],
     "domain": [],
-    "level": "junior",
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_junior_frontend_javascript.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL7XSNI6UM%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213526Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIEgjvFQ5Wr%2FWvnmnwXxtfqBOJb6nxOgplCUpXE%2FYBfndAiEAtpdpVmcGpC6P%2F9LSFI454RSLcCqJbdhrl5US4mIBQnkq1gIIfxAAGgwyNDE5OTE2MjA3NTkiDCg7EpKGuFi6I8W89CqzAlihai47B9pojtvpBg41gbuiYI%2BqUdRJpiDUMwgtcGu17AwB0diLsCLp%2FmYKTYVF4Jj8nqrblVfvui5s3irM4vfoOjoPel9Hpdd%2BSGZX6HzqpnCPdXVVluCPL5q8dUabFTcVZSvLFHAIIkGYKWy98vJo%2BjFtnRMxZEL4%2BbA3Cvn7Li%2BS5Im7N9iv1hmn%2BhVpxcaVXuP%2BcAFnxBieEsj1NOjKmRHI9yd56jwnr5G9rOQnlZQayiBzH2QFzKutJYxEDbWkmGmrOM4ENWNgV7F1AIkpa6I3gVvdXPyKG0U6bwIlPfRGk1b6IOlzh6R%2F6BQ5V%2BET8qWXR7RSRa%2B79ZW9cxxk0VQm6r3A3yEkNKLFVRUzmeIqT5%2FyY1tEmzuI4EsJb9ZxbxxKyjkmKbKK%2FMFtPzaalqYwld2SwgY6rQItnhuUPjyCH536baADXBF76Hp%2BkFJAtqmN42%2BhTWRlz2BHNR%2FQHRlqPAhnK%2FhcMVklNJhXL4XM9KY6HdY5WAkCUO9MxgMQYPfYtQQ1v1PzfciC0VfdHvGBQa2yoWuYYq2mDBaI%2FNYh1frqeZSfgTuZuBRghJwIcn8046hT7phQ22vC99%2FIqgQ9dWIgnEIAvHgi9bIzsLUikfMm%2FWq%2F%2B%2FzoWpzsHJ%2BaUC65JSijHxocorWre%2F%2B74cEKgzeEk2%2Bd8yiqA4l23Jda5L%2BiaWTjS5u6Xm37tUTpGYLPwNs%2Btwsrcs9L3Y5bch08bnnIjM30qsRo07LYPNLZ5Hm71xLOCxRwC2KuQDUxYNLlDo%2BxpMWDvxQktNIdHh2GwUr5a5EO94DAaP6nn5gvms%2B5Aqt0&X-Amz-Signature=529c0a144ce4a125976f70cc83bd337888144441388b4a4ac6b1de748146f16e&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": "junior"
   },
   {
     "filename": "resume_junior_sql_devops.pdf",
@@ -119,8 +111,7 @@
       "docker"
     ],
     "domain": [],
-    "level": "junior",
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_junior_sql_devops.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL7XSNI6UM%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213612Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIEgjvFQ5Wr%2FWvnmnwXxtfqBOJb6nxOgplCUpXE%2FYBfndAiEAtpdpVmcGpC6P%2F9LSFI454RSLcCqJbdhrl5US4mIBQnkq1gIIfxAAGgwyNDE5OTE2MjA3NTkiDCg7EpKGuFi6I8W89CqzAlihai47B9pojtvpBg41gbuiYI%2BqUdRJpiDUMwgtcGu17AwB0diLsCLp%2FmYKTYVF4Jj8nqrblVfvui5s3irM4vfoOjoPel9Hpdd%2BSGZX6HzqpnCPdXVVluCPL5q8dUabFTcVZSvLFHAIIkGYKWy98vJo%2BjFtnRMxZEL4%2BbA3Cvn7Li%2BS5Im7N9iv1hmn%2BhVpxcaVXuP%2BcAFnxBieEsj1NOjKmRHI9yd56jwnr5G9rOQnlZQayiBzH2QFzKutJYxEDbWkmGmrOM4ENWNgV7F1AIkpa6I3gVvdXPyKG0U6bwIlPfRGk1b6IOlzh6R%2F6BQ5V%2BET8qWXR7RSRa%2B79ZW9cxxk0VQm6r3A3yEkNKLFVRUzmeIqT5%2FyY1tEmzuI4EsJb9ZxbxxKyjkmKbKK%2FMFtPzaalqYwld2SwgY6rQItnhuUPjyCH536baADXBF76Hp%2BkFJAtqmN42%2BhTWRlz2BHNR%2FQHRlqPAhnK%2FhcMVklNJhXL4XM9KY6HdY5WAkCUO9MxgMQYPfYtQQ1v1PzfciC0VfdHvGBQa2yoWuYYq2mDBaI%2FNYh1frqeZSfgTuZuBRghJwIcn8046hT7phQ22vC99%2FIqgQ9dWIgnEIAvHgi9bIzsLUikfMm%2FWq%2F%2B%2FzoWpzsHJ%2BaUC65JSijHxocorWre%2F%2B74cEKgzeEk2%2Bd8yiqA4l23Jda5L%2BiaWTjS5u6Xm37tUTpGYLPwNs%2Btwsrcs9L3Y5bch08bnnIjM30qsRo07LYPNLZ5Hm71xLOCxRwC2KuQDUxYNLlDo%2BxpMWDvxQktNIdHh2GwUr5a5EO94DAaP6nn5gvms%2B5Aqt0&X-Amz-Signature=cd8d81b7453dc6355202d3af99d710c2afdb372a9635f861c68630b43b767c7d&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": "junior"
   },
   {
     "filename": "resume_python_data_engineer.pdf",
@@ -137,8 +128,7 @@
     "domain": [
       "data"
     ],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_python_data_engineer.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCLWK2B4SKU%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213800Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIFxiZo6HTHPuwthAd5Y4gWhvYtz56l9Od2DUC3RUotbvAiEAnT1GqQNlP0gH6SWM8h0G4MOypE86zu1AGOFR%2BG%2BxoCQq1gIIfxAAGgwyNDE5OTE2MjA3NTkiDMBBOeCHpICM%2F3uEKyqzAhKpQpqAHOXUcaF6Eg7KpQxWwKsrnf6%2FVLbRpI62K8Ca0EiGAT3Jf%2F9lenYgRJFALUO%2BIp39wUv7GWeWrO9BGOHWFZn9n3ELULBmvKvLy0WgixR9L3Jh7yx7OsP06MH%2FWGLolCGBH0QbS4kHg081vM90Q2jfds4APmQROcBK6fMEnakPBcIuVDOmLMtxfXgLM1yeijgNdotjFyKHaIOKKZpJX9Tq1u74ZyxUxqyg5Ukxh0q2yExjmEn8DN3bc6hIQTc9j%2FnCGmW%2FhbGzK70u09Srz7uaAjwS7nkHfbWVtrtUhMscb2UL6rL4lJ2o8qxm1usgu5UO8WUYR5qzJgcZEdcvIZzQOol5pwuMw1Qbpb1rJ5c%2BMWIHGVpt9fSTTSoSZYrTJaia6DcVB6lGIIZkg8yRPqcwld2SwgY6rQL1kg8z6UTtcSxC7bgL98ey1ItV4J1%2FeXSoqHoJVpHWCbM5Jb3nO6c6CyQFf%2BXGPMNvjoMGZHFL%2FCtFB%2FC4WWqpIk38PmUmb8UlSBlFj6qC2zaFekcLv6T0t4w8neFiySqigqj41WKDRMqZxQlHNLWXe2B1mD1oDQPwZsbIrTDncIPKPb%2Bu7SXfQYqVX%2BKITxHF609r5XTl5NvRqN4dJ1w4upY%2B48Mkk6DdEVEki5NSyH%2BCRqLnKlR3HPr5OgzIy%2B1wTh3lGxGrjNLp%2BctqKx3w%2BCJS49Z1avAt%2BVqCN1%2FP5Pe0rj%2BqVMAVW3o9DX0MavSA5TazWMXys0%2FWPCOzH7j%2Fqbd9IFkPC%2F21VISlGSyn9nnX16UtiaEgnyMJt7rmpmQiOf8IqTByBvue9yNk&X-Amz-Signature=19363f3aec2fe4479dc17766820b3656b412ffa16587809d279d8ae1b1cf8e90&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": null
   },
   {
     "filename": "resume_python_sas_data_analytics.pdf",
@@ -155,8 +145,7 @@
     "domain": [
       "data"
     ],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_python_sas_data_analytics.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL7XSNI6UM%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213828Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIEgjvFQ5Wr%2FWvnmnwXxtfqBOJb6nxOgplCUpXE%2FYBfndAiEAtpdpVmcGpC6P%2F9LSFI454RSLcCqJbdhrl5US4mIBQnkq1gIIfxAAGgwyNDE5OTE2MjA3NTkiDCg7EpKGuFi6I8W89CqzAlihai47B9pojtvpBg41gbuiYI%2BqUdRJpiDUMwgtcGu17AwB0diLsCLp%2FmYKTYVF4Jj8nqrblVfvui5s3irM4vfoOjoPel9Hpdd%2BSGZX6HzqpnCPdXVVluCPL5q8dUabFTcVZSvLFHAIIkGYKWy98vJo%2BjFtnRMxZEL4%2BbA3Cvn7Li%2BS5Im7N9iv1hmn%2BhVpxcaVXuP%2BcAFnxBieEsj1NOjKmRHI9yd56jwnr5G9rOQnlZQayiBzH2QFzKutJYxEDbWkmGmrOM4ENWNgV7F1AIkpa6I3gVvdXPyKG0U6bwIlPfRGk1b6IOlzh6R%2F6BQ5V%2BET8qWXR7RSRa%2B79ZW9cxxk0VQm6r3A3yEkNKLFVRUzmeIqT5%2FyY1tEmzuI4EsJb9ZxbxxKyjkmKbKK%2FMFtPzaalqYwld2SwgY6rQItnhuUPjyCH536baADXBF76Hp%2BkFJAtqmN42%2BhTWRlz2BHNR%2FQHRlqPAhnK%2FhcMVklNJhXL4XM9KY6HdY5WAkCUO9MxgMQYPfYtQQ1v1PzfciC0VfdHvGBQa2yoWuYYq2mDBaI%2FNYh1frqeZSfgTuZuBRghJwIcn8046hT7phQ22vC99%2FIqgQ9dWIgnEIAvHgi9bIzsLUikfMm%2FWq%2F%2B%2FzoWpzsHJ%2BaUC65JSijHxocorWre%2F%2B74cEKgzeEk2%2Bd8yiqA4l23Jda5L%2BiaWTjS5u6Xm37tUTpGYLPwNs%2Btwsrcs9L3Y5bch08bnnIjM30qsRo07LYPNLZ5Hm71xLOCxRwC2KuQDUxYNLlDo%2BxpMWDvxQktNIdHh2GwUr5a5EO94DAaP6nn5gvms%2B5Aqt0&X-Amz-Signature=313f020c76c10378a6a82d1aa6301f6f79f59a76ff6c4bd723486087afc0b732&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": null
   },
   {
     "filename": "resume_remote_fullstack_python_node.pdf",
@@ -171,8 +160,7 @@
     "domain": [
       "remote"
     ],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_remote_fullstack_python_node.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL3GF6D6YR%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213901Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJGMEQCIGpyHYdwUUSXmdYe0%2BQYIgDoh4SUsYCDKsqyJn0B95J2AiBcYs5%2FKnlAzWn2jtx03WYsYEwiVDPDGaMT913cF4JWZSrWAgh%2FEAAaDDI0MTk5MTYyMDc1OSIMMFj3D6PkBoavaDt0KrMC3XZDkLnU6HAHZFnU6SLUaKm9%2BTnp2ZUZQ6yyaCECk7hsgpSkcNdGDNrmVzy0%2BVF%2BTptu6ChHhhFS%2BUypQM5fGsXI2FG8dxWRyJ%2Bd8CsFz%2FIqYMS%2FY1qmoLKXSTIJVhzlmrg%2FR0RPQ4AeJge3S2G%2FzbSqEmOoDQEOPTU8AxefDBdcZM3qKtqGb%2BAbKYvLEeZcukL6PLolzmlV8y88VVhZSuAHk9TkcEVWKqBCFYJ1KZ23Xra%2FrX3PUMCkwrprBmNIlR6JIxZwci7b3II6tvm9PVkkD%2F58rkJXoIe1IB8Imw4UUuPLUSUBe4q7204JB9etgNRXzD1zeQWzwiiatMRlwqemkdMUuHBJvbfH%2FgUSahqQjRYA5FtiPhRAq1Jgs4EIw7EkjZUcHsUkyPO6DTlW0D5objCV3ZLCBjquAoFfN%2FcMAkMA7Xb%2BG1fHEvAi%2B4n%2BqzuvaTie0rrm3cMd0UrK00vrtN8x9xI6W7jvd9q1Rgs3BNHpGSxXaxd3ZUwSbhs4AtWhEJOUdIZGlbNcvrtTjhVhgjhFo8zaRR56mpsLVU7umWVmGLBaAbz%2Bf5tKffYiLD%2B2nX5JfYZG8S6w0aJqGbjLYbrduIzQ3Gz7IHVWf1RieE9x%2F1bqsNfoOA0oqm%2FuE6aqFGSkDzIPIARN4K%2B2YfEda5IL0ozSTTfsr%2BeWXaHideuP5Wtj5OVl5K4hdGeHQ41ZKPTRimprBg9%2BowjPm1dmdWfEs3qw%2BbW3B7DOxjXPGPSXfs37vpGKJI%2FWCso5ey8hhZ29JjKA0L8RMwahaxKsYrEy70wkYa4ygHR6n6XHhKKTmSbhCOll&X-Amz-Signature=a6faec4f0e89816815731e811b00b09d31e569f2ab195febb7581d40658a3271&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": null
   },
   {
     "filename": "resume_statistical_programmer_clinical_sas.pdf",
@@ -186,7 +174,6 @@
       "clinical",
       "biostatistics"
     ],
-    "level": null,
-    "url": "https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/resume_statistical_programmer_clinical_sas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIATQV6TDCL7XSNI6UM%2F20250607%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250607T213932Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIEgjvFQ5Wr%2FWvnmnwXxtfqBOJb6nxOgplCUpXE%2FYBfndAiEAtpdpVmcGpC6P%2F9LSFI454RSLcCqJbdhrl5US4mIBQnkq1gIIfxAAGgwyNDE5OTE2MjA3NTkiDCg7EpKGuFi6I8W89CqzAlihai47B9pojtvpBg41gbuiYI%2BqUdRJpiDUMwgtcGu17AwB0diLsCLp%2FmYKTYVF4Jj8nqrblVfvui5s3irM4vfoOjoPel9Hpdd%2BSGZX6HzqpnCPdXVVluCPL5q8dUabFTcVZSvLFHAIIkGYKWy98vJo%2BjFtnRMxZEL4%2BbA3Cvn7Li%2BS5Im7N9iv1hmn%2BhVpxcaVXuP%2BcAFnxBieEsj1NOjKmRHI9yd56jwnr5G9rOQnlZQayiBzH2QFzKutJYxEDbWkmGmrOM4ENWNgV7F1AIkpa6I3gVvdXPyKG0U6bwIlPfRGk1b6IOlzh6R%2F6BQ5V%2BET8qWXR7RSRa%2B79ZW9cxxk0VQm6r3A3yEkNKLFVRUzmeIqT5%2FyY1tEmzuI4EsJb9ZxbxxKyjkmKbKK%2FMFtPzaalqYwld2SwgY6rQItnhuUPjyCH536baADXBF76Hp%2BkFJAtqmN42%2BhTWRlz2BHNR%2FQHRlqPAhnK%2FhcMVklNJhXL4XM9KY6HdY5WAkCUO9MxgMQYPfYtQQ1v1PzfciC0VfdHvGBQa2yoWuYYq2mDBaI%2FNYh1frqeZSfgTuZuBRghJwIcn8046hT7phQ22vC99%2FIqgQ9dWIgnEIAvHgi9bIzsLUikfMm%2FWq%2F%2B%2FzoWpzsHJ%2BaUC65JSijHxocorWre%2F%2B74cEKgzeEk2%2Bd8yiqA4l23Jda5L%2BiaWTjS5u6Xm37tUTpGYLPwNs%2Btwsrcs9L3Y5bch08bnnIjM30qsRo07LYPNLZ5Hm71xLOCxRwC2KuQDUxYNLlDo%2BxpMWDvxQktNIdHh2GwUr5a5EO94DAaP6nn5gvms%2B5Aqt0&X-Amz-Signature=798504bd2a9cf3af42c9e1ec91a2a94ce21ed07c35221a59ffdc4ab2356790cb&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    "level": null
   }
 ]
