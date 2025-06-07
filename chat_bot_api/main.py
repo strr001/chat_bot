@@ -45,7 +45,7 @@ async def chat(request: ChatRequest):
         if example:
             response["example_filename"] = example["filename"]
             response["example_title"] = example["title"]
-            response["example_url"] = example.get("url")
+            response["example_url"] = f"https://devfusionbucket.s3.eu-west-3.amazonaws.com/chat-bot-resume-folder/{example['filename']}"
         else:
             response["response"] =  ("🔍 По вашому запиту я не знайшов відповідних резюме. Будь ласка, "
                                      "вкажіть точніше ту спеціальність або технологію, згідно яких потрібно "
