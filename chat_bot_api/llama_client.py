@@ -2,7 +2,6 @@ import os
 import requests
 import time
 from dotenv import load_dotenv
-import re
 
 # 🔄 Завантаження конфігурації
 load_dotenv()
@@ -23,7 +22,7 @@ HEADERS = {
 SYSTEM_PROMPT = (
     "You are an expert chatbot embedded on a website. "
     "DO NOT ANSWER INQUIRIES ABOUT OTHER PROFESSIONS EXCEPT IT!!! "
-    "DON'T REPLY WITH DIALOGUE AND DONT USE ASSISTANT AND USER WORDS IN YOUR RESPONSE."
+    "DON'T REPLY WITH DIALOGUE AND DONT USE ASSISTANT AND USER WORDS IN YOUR RESPONSE. "
     "Your specialty is helping users create resumes specifically for IT professions. "
     "You provide guidance, examples, and suggestions tailored to the user's needs.\n"
     "\nResponsibilities:\n"
@@ -51,39 +50,6 @@ def build_prompt_from_history(messages: list[dict]) -> str:
             prompt += f"Assistant: {content}\n"
     prompt += "Assistant:"
     return prompt
-
-def extract_text_from_string(text: str) -> str:
-    """
-    Витягує вміст з 'tokens': ['...'] з JSON-подібного рядка.
-    Якщо не знайдено — повертає оригінальний текст.
-    """
-    # Знаходимо перший токенізований фрагмент
-    match = re.search(r"'tokens'\s*:\s*\[\s*'([^']+)'\s*\]", text)
-    if match:
-        extracted = match.group(1)
-        return extracted.strip()
-    return text.strip()
-
-
-def clean_response(response: str) -> str:
-    """
-    Обрізає все після 'Assistant:' і додає 'Приклад вашої відповіді:' перед останнім реченням користувача.
-    """
-    assistant_index = response.find("Assistant:")
-    if assistant_index != -1:
-        before_assistant = response[:assistant_index].strip()
-
-        # Шукаємо останню репліку користувача перед Assistant:
-        last_user_index = before_assistant.rfind("User:")
-        if last_user_index != -1:
-            user_text = before_assistant[last_user_index + len("User:"):].strip()
-            cleaned = before_assistant[:last_user_index].strip()
-            return f"{cleaned} Приклад вашої відповіді: {user_text}"
-
-        # Якщо немає 'User:', просто обрізаємо
-        return before_assistant.strip()
-
-    return response.strip()
 
 def generate_llama_response(messages: list[dict], max_tokens: int = 500, temperature: float = 0.3) -> str:
     full_prompt = build_prompt_from_history(messages)
@@ -126,16 +92,19 @@ def generate_llama_response(messages: list[dict], max_tokens: int = 500, tempera
 
             if isinstance(output, dict):
                 output_text = output.get("text") or output.get("output", "")
-            elif isinstance(output, list) and output:
-                output_text = str(output[0])
             elif isinstance(output, str):
                 output_text = output
+            elif isinstance(output, list) and output:
+                first = output[0]
+                if isinstance(first, dict) and "choices" in first:
+                    tokens = first["choices"][0].get("tokens")
+                    if tokens:
+                        output_text = "".join(tokens)
 
             if not output_text:
                 raise RuntimeError(f"Job completed but no usable text in output: {output}")
 
-            cleaned = clean_response(output_text)
-            return cleaned
+            return output_text.strip()
 
         elif status in ["FAILED", "CANCELLED"]:
             raise RuntimeError(f"Job failed or cancelled: {result}")
