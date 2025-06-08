@@ -11,16 +11,22 @@ import os
 
 app = FastAPI()
 
-# 🔓 Дозволяємо доступ з будь-якого джерела (для frontend)
+# ✅ Дозволені джерела для CORS
+origins = [
+    "http://localhost:3000",
+    "https://go-to-work-frontend.vercel.app"
+]
+
+# 🔓 Налаштування CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=origins,  # 🔐 лише ці домени
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# 📂 Папка з прикладами (якщо зберігаються локально)
+# 📂 Папка з прикладами
 app.mount("/examples_cv", StaticFiles(directory="examples_cv"), name="examples_cv")
 
 # 📥 Моделі запиту
@@ -38,13 +44,11 @@ async def chat(request: ChatRequest):
     if not request.messages:
         raise HTTPException(status_code=400, detail="Empty message history")
 
-    # 1. Переклад історії на англійську
     try:
         messages_en = translate_messages([msg.dict() for msg in request.messages], target_lang="EN")
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Translation to English failed: {str(e)}")
 
-    # 2. Якщо потрібно знайти приклад резюме — не генеруємо LLaMA
     if request.include_example:
         user_message_en = messages_en[-1]["content"]
         example = find_best_resume_example(user_message_en)
@@ -65,13 +69,11 @@ async def chat(request: ChatRequest):
                 )
             }
 
-    # 3. Генерація відповіді LLaMA
     try:
         assistant_reply_en = generate_llama_response(messages_en)
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"LLaMA response failed: {str(e)}")
 
-    # 4. Переклад відповіді на українську
     try:
         assistant_reply_ua = translate_from_english(assistant_reply_en, target_lang="UK")
     except Exception as e:
